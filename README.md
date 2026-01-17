@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Daron Baltazar
+# 🦤 Hi, I’m Daron Baltazar
 
 🎓 Computer Science & Finance student  
 🎮 Game development | ☕ Data-driven projects | 🧠 Problem solving
@@ -9,8 +9,8 @@ combine logic, design, and real-world constraints.
 ---
 
 ## 🔧 Skills & Tools
-- Languages: C#, Java, Python, JavaScript
-- Game Dev: Unity, C#, ShaderLab
+- Languages: C#, Java, Python, R, SQL, HTML & CSS
+- Game Dev: Unity, C#
 - Data & Logic: Algorithms, simulations, data analysis
 - Tools: Git, GitHub, Visual Studio, IntelliJ
 
