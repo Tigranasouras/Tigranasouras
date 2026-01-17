@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Daron Baltazar
 
-<!--
-**Tigranasouras/Tigranasouras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Finance student  
+🎮 Game development | ☕ Data-driven projects | 🧠 Problem solving
 
-Here are some ideas to get you started:
+I’m interested in building interactive systems, simulations, and software projects that
+combine logic, design, and real-world constraints.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+- Languages: C#, Java, Python, JavaScript
+- Game Dev: Unity, C#, ShaderLab
+- Data & Logic: Algorithms, simulations, data analysis
+- Tools: Git, GitHub, Visual Studio, IntelliJ
+
+---
+
+## 📌 Featured Projects
+
+### 🃏 BlackJack with Card Counting  
+**C# | Unity**  
+A Blackjack game implementation that includes real-time card counting mechanics.
+
+➡️ [View Repository](https://github.com/Tigranasouras/BlackJack)
+
+---
+
+### ⏱️ Custom Time Scale Mod (Minecraft)  
+**Java | Modding**  
+A Minecraft mod that allows dynamic control over the game’s time scale.
+
+➡️ [View Repository](https://github.com/Tigranasouras/CustomTimeScaleMod)
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/Tigranasouras
+- LinkedIn: https://www.linkedin.com/in/daron-baltazar
