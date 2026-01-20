@@ -1,10 +1,10 @@
 # 🦤 Hi, I’m Daron Baltazar
 
-🎓 Computer Science & Finance student  
+🎓 Finance & Computer Science student  
 🎮 Game development | ☕ Data-driven projects | 🧠 Problem solving
 
 I’m interested in building interactive systems, simulations, and software projects that
-combine logic, design, and real-world constraints.
+Combine logic, design, and real-world constraints.
 
 ---
 
