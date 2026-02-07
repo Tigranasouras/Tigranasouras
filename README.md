@@ -34,6 +34,16 @@ A Minecraft mod that allows dynamic control over the game’s time scale.
 
 ---
 
+### 🕵🏻 Pricing Financial Options Using the Binomial Tree and Black–Scholes Models
+**Python | Financial Analysis**  
+A reproducible data science pipeline that connects real market data to theoretical pricing models.
+
+➡️ [View Repository](https://github.com/Tigranasouras/PricingFinancialOptionsBT-BS)
+
+
+---
+
+
 ## 📫 Connect
 - GitHub: https://github.com/Tigranasouras
 - LinkedIn: https://www.linkedin.com/in/daron-baltazar
